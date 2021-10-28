@@ -9,7 +9,7 @@
     <b-navbar toggleable="md" type="dark" variant="info">
       <b-container>
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-        <b-navbar-brand href="#">RickYTales</b-navbar-brand>
+        <b-navbar-brand href="#">Rick & Morty</b-navbar-brand>
 
         <b-collapse is-nav id="nav_collapse">
           <b-navbar-nav>
